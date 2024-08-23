@@ -11,7 +11,7 @@ body {
   background-color: var(--light-purple); 
 }
 
-/* Navbar */
+/* barra  */
 .navbar {
   background: linear-gradient(to right, var(--primary-color), #805580); 
   color: white;
@@ -42,7 +42,7 @@ body {
   color: var(--accent-color); 
 }
 
-/* Hero */
+/* Heroi */
 .hero {
   background-color: var(--secondary-color);
   padding: 50px 0; 
@@ -86,7 +86,7 @@ body {
   margin-bottom: 20px;
 }
 
-/* Tabela (página Atendimento) */
+/* p/pagina atendimento */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -104,7 +104,7 @@ th {
   color: white;
 }
 
-/* Formulário (página Contato) */
+/* contato */
 .contact-form {
   background-color: var(--secondary-color);
   padding: 30px;
@@ -116,7 +116,7 @@ th {
   border-radius: 5px;
 }
 
-/* Botão */
+/* botao */
 .btn-primary {
   background: linear-gradient(to right, var(--primary-color), #442244); 
   border-color: var(--primary-color);
